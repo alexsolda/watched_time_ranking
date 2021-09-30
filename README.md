@@ -70,6 +70,16 @@ DB_USERNAME=your_db_username
 DB_PASSWORD=your_db_password
 ```
 
+# Migrations: Gerar tabelas
+```bash
+php artisan migrate
+```
+
+# Populando as tabelas
+```bash
+php artisan db:seed
+```
+
 # Execute a aplicação em modo de desenvolvimento
 ```bash
 php artisan serve
