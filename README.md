@@ -36,7 +36,7 @@ watched_time_ranking
 
 - [x] Consultar tempo assistido
 
-### Endpoint /api/rank
+### Endpoint:  /api/rank
 
 Retorna o ranking ordenado de forma decrescente e organizado por canais.
 
